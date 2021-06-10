@@ -1,5 +1,4 @@
 # SKAzMySecProject
 SKAzMySecProject
 
-Azure Integration Check again
-Check again
+Azure Integration new
